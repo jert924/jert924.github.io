@@ -1,0 +1,25 @@
+/* Styling the body */
+body {
+    background-color: lightgray;
+    font-family: Arial, sans-serif;
+  }
+  
+  /* Class to highlight text */
+  .highlight {
+    color: red;
+    font-weight: bold;
+  }
+  
+  /* ID to style a specific section */
+  #special-section {
+    background-color: yellow;
+    padding: 20px; /* Padding adjusted */
+    margin: 20px; /* Margin added */
+    border: 2px solid black; /* Border added */
+  }
+  
+  /* Change link color on hover */
+  a:hover {
+    color: blue;
+    text-decoration: underline;
+  }
